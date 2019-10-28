@@ -465,6 +465,3 @@ void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
         socket_client->Active = FALSE;
 }
 //---------------------------------------------------------------------------
-
-
-void __fastcall TForm1::socket_clientConnect(T
